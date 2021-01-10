@@ -1,5 +1,5 @@
 ## Screenshots
-<img src="Screenshots/GTAVLL.png" />
+<img src="Resources/GTAVLL.png" />
 
 # Description - [Latest Release](https://github.com/alweg/GTAV_Lobby_Leaver/releases/)
 This tool lets you leave any Lobby you're currently in.
